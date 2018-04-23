@@ -1,0 +1,6 @@
+framework module Pods_AbiturientKZ {
+  umbrella header "Pods-AbiturientKZ-umbrella.h"
+
+  export *
+  module * { export * }
+}

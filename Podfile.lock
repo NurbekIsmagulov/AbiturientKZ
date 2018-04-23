@@ -1,0 +1,18 @@
+PODS:
+  - AKSideMenu (1.4.1)
+  - Cartography (3.0.1)
+  - McPicker (1.0.0)
+
+DEPENDENCIES:
+  - AKSideMenu
+  - Cartography
+  - McPicker
+
+SPEC CHECKSUMS:
+  AKSideMenu: 5f253516c339960e474f81c3da53540368520be5
+  Cartography: f8c899bb0f5cf20758644a8eea59a75e98a03a5d
+  McPicker: 130183cd3d22fc6933ea9e63c5a0d0d1becc0122
+
+PODFILE CHECKSUM: 1a10aaf61a2a8a38d096f7f30b20976eee5e16da
+
+COCOAPODS: 1.4.0
